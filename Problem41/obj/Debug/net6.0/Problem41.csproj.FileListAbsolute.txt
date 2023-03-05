@@ -1,0 +1,15 @@
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\bin\Debug\net6.0\Problem41.exe
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\bin\Debug\net6.0\Problem41.deps.json
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\bin\Debug\net6.0\Problem41.runtimeconfig.json
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\bin\Debug\net6.0\Problem41.dll
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\bin\Debug\net6.0\Problem41.pdb
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\obj\Debug\net6.0\Problem41.csproj.AssemblyReference.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\obj\Debug\net6.0\Problem41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\obj\Debug\net6.0\Problem41.AssemblyInfoInputs.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\obj\Debug\net6.0\Problem41.AssemblyInfo.cs
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\obj\Debug\net6.0\Problem41.csproj.CoreCompileInputs.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\obj\Debug\net6.0\Problem41.dll
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\obj\Debug\net6.0\refint\Problem41.dll
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\obj\Debug\net6.0\Problem41.pdb
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\obj\Debug\net6.0\Problem41.genruntimeconfig.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Homework #6\Problem41\obj\Debug\net6.0\ref\Problem41.dll
